@@ -1,0 +1,14 @@
+Cloud Engineer 
+Assignment 1 
+Task1: 
+Create Azure Active Directory on Azure Portal. Create Users in it 
+provide them with global/user admin roles and enable MFA on 
+users.  
+Please provide the credentials of the administrator. 
+Task2: 
+Create Blob storage on Azure and map as a drive on your 
+laptop. 
+Task3: 
+Study the Microsoft O365 platform and learn about the 
+Business basic, standard and Enterprise licenses of M365. 
+➔ Kindly submit all tasks within the specified deadline.
