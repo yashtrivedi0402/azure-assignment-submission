@@ -1,0 +1,13 @@
+Cloud Engineer
+Assignment: II
+
+Tasks:
+1.Create 2 Linux Servers and configure Web Servers
+on each VM. Create a unique webpage for each VM
+other than the default index file.
+
+2. Create a Windows VM in a different region and
+access the same webpage from this VM.
+
+3. Create an Active directory on the Windows server and
+join a client machine in the domain.
