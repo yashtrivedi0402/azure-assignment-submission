@@ -22,8 +22,6 @@ Covered:
 - Business Basic vs Business Standard
 - Enterprise licensing concepts
 
-📁 **[View Assignment 1 →](./Assignment-1/README.md)**
-
 ---
 
 ### 🔹 Assignment 2 — Azure Infrastructure & Administration
@@ -42,8 +40,6 @@ Built and configured real Azure infrastructure including:
 - Domain Users
 - Windows Domain Join
 - Domain Authentication
-
-📁 **[View Assignment 2 →](./Assignment-2/README.md)**
 
 ---
 
