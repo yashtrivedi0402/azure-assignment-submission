@@ -334,7 +334,7 @@ Add screenshot showing:
 
 A Windows Server 2022 VM was successfully created in a different Azure region, accessed through RDP, and used to successfully access the webpage hosted on the Linux web server. The webpage returned an HTTP `200 OK` response.
 
-# 🔐 Assignment 2 — Task 3: Active Directory Domain Services & Domain Join
+# Task 3: Active Directory Domain Services & Domain Join
 
 ## 📌 Objective
 
